@@ -6,33 +6,46 @@ public class PlayerController : MonoBehaviour
     public Transform movePoint;
 
     public LayerMask whatStopsMovement;
+    public float gridSize = 0.5f;
 
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         movePoint.parent = null;
     }
 
-    // Update is called once per frame
     void Update()
     {
         transform.position = Vector3.MoveTowards(transform.position, movePoint.position, moveSpeed * Time.deltaTime);
 
-        if(Vector3.Distance(transform.position, movePoint.position) <= .05f)
+        if (Vector3.Distance(transform.position, movePoint.position) <= .05f)
         {
+            Vector3 input = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0f);
 
-            if(Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1f)
+            if (Mathf.Abs(input.x) == 1f) input.y = 0f; // only allow one axis at a time
+            else if (Mathf.Abs(input.y) == 1f) input.x = 0f;
+
+            if (input != Vector3.zero)
             {
-                if(!Physics2D.OverlapCircle(movePoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f), .2f, whatStopsMovement))
+                Vector3 targetPos = movePoint.position + input * gridSize;
+
+                Collider2D hit = Physics2D.OverlapCircle(targetPos, .2f, whatStopsMovement);
+
+                if (hit == null)
                 {
-                    movePoint.position += new Vector3(Input.GetAxisRaw("Horizontal") * 0.5f, 0f, 0f);
+                    // Nothing blocking, just move
+                    movePoint.position = targetPos;
                 }
-            }else if(Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1f)
-            {
-                if(!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), .2f, whatStopsMovement))
+                else if (hit.CompareTag("Pushable"))
                 {
-                    movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical") * 0.5f, 0f);
+                    Vector3 pushTarget = targetPos + input * gridSize;
+                    Collider2D pushHit = Physics2D.OverlapCircle(pushTarget, .2f, whatStopsMovement);
+
+                    if (pushHit == null)
+                    {
+                        // Pushable object can be moved
+                        hit.transform.position = pushTarget;
+                        movePoint.position = targetPos;
+                    }
                 }
             }
         }
