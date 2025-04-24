@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1096819929209153742}
   - component: {fileID: 8847916008142626445}
   - component: {fileID: 7014606980836259295}
+  - component: {fileID: 6799921925647196057}
   m_Layer: 0
   m_Name: Letter Y
   m_TagString: Pushable
@@ -115,7 +116,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &7014606980836259295
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -162,3 +163,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &6799921925647196057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6890880950396500721}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 528dabf98ec8b9142bf31c7dbf5a37f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

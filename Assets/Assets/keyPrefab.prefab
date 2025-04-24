@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 8099189313431491739}
   - component: {fileID: 1223267730851667754}
   - component: {fileID: 7130335675370997709}
+  - component: {fileID: -2843786882055143303}
   m_Layer: 0
   m_Name: keyPrefab
   m_TagString: Pushable
@@ -115,7 +116,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!61 &7130335675370997709
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -162,3 +163,15 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &-2843786882055143303
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6844388731646556100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 528dabf98ec8b9142bf31c7dbf5a37f2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
