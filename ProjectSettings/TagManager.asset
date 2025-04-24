@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Pushable
   - _wallLayer
+  - K
+  - E
+  - Y
+  - Enemy
   layers:
   - Default
   - TransparentFX

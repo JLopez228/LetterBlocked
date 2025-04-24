@@ -1,4 +1,5 @@
 using UnityEngine;
+using System.Collections;
 
 public class Enemy : MonoBehaviour
 {
@@ -6,19 +7,29 @@ public class Enemy : MonoBehaviour
     private float _moveInterval = 0.5f;
 
     [SerializeField]
-    private LayerMask _whatStopsMovement; // Match this with player's whatStopsMovement
+    private LayerMask _whatStopsMovement;
 
     [SerializeField]
     private float _gridSize = 0.5f;
 
-    private float _moveTimer;
+    [SerializeField]
+    private string _playerTag = "Player"; // Tag used to identify the player GameObject
 
+    private float _moveTimer;
     private EnemyDetect _enemyDetect;
     private Vector2 _moveDirection;
+    private Vector3 _originalPosition;
+    private Quaternion _originalRotation;
+    private SpriteRenderer _spriteRenderer;
+    private Collider2D _collider;
 
     private void Awake()
     {
         _enemyDetect = GetComponent<EnemyDetect>();
+        _spriteRenderer = GetComponent<SpriteRenderer>();
+        _collider = GetComponent<Collider2D>();
+        _originalPosition = transform.position;
+        _originalRotation = transform.rotation;
     }
 
     private void Update()
@@ -74,5 +85,31 @@ public class Enemy : MonoBehaviour
         Collider2D hit = Physics2D.OverlapCircle(targetPos, 0.2f, _whatStopsMovement);
 
         return hit == null;
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag(_playerTag))
+        {
+            StartCoroutine(Respawn());
+        }
+    }
+
+    private IEnumerator Respawn()
+    {
+        // Hide enemy
+        _spriteRenderer.enabled = false;
+        _collider.enabled = false;
+
+        // Wait 5 seconds
+        yield return new WaitForSeconds(5f);
+
+        // Reset position and rotation
+        transform.position = _originalPosition;
+        transform.rotation = _originalRotation;
+
+        // Show enemy again
+        _spriteRenderer.enabled = true;
+        _collider.enabled = true;
     }
 }
