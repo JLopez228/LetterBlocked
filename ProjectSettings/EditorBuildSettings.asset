@@ -14,6 +14,24 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/03_Gameplay.unity
     guid: 6f7d8b1595b7662448cca5f6303567b1
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 1.unity
+    guid: a85b54e36e069314a9d356c636963d7f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 2.unity
+    guid: bb6873a8ba65fab41b4020a158836628
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 3.unity
+    guid: afccbda3d33341a479e6124c128aa5f9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 4.unity
+    guid: f701dcbf5de55fb42bde64766f2e3a86
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 5.unity
+    guid: 0acf07572a08171488c23f3d0963e2b0
+  - enabled: 1
+    path: Assets/Scenes/Tutorial 6.unity
+    guid: 9e91e0d3041e52842b62aa6fb2511408
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

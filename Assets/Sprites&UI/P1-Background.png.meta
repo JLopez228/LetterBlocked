@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: 30fad48cc3a321a44839c9e768102bd3
+guid: 2743d1feb75fd0c478f3b9c0e4607e16
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3971613969178342141
-    second: R1-Hearts_0
-  - first:
-      213: -3690364984327345273
-    second: R1-Hearts_1
-  - first:
-      213: 4877232510619700320
-    second: R1-Hearts_2
+      213: -1064759760235590710
+    second: P1-Background_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -106,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: R1-Hearts_0
+      name: P1-Background_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 37
-        width: 30
-        height: 30
+        x: 0
+        y: 0
+        width: 384
+        height: 216
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -121,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: df2bad9ccd10e1730800000000000000
-      internalID: 3971613969178342141
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: R1-Hearts_1
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 3
-        width: 18
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 78be0a1699039ccc0800000000000000
-      internalID: -3690364984327345273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: R1-Hearts_2
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 3
-        width: 16
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06c4972b0296fa340800000000000000
-      internalID: 4877232510619700320
+      spriteID: acb0700b3a63931f0800000000000000
+      internalID: -1064759760235590710
       vertices: []
       indices: 
       edges: []
@@ -184,10 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      R1-Hearts_0: 3971613969178342141
-      R1-Hearts_1: -3690364984327345273
-      R1-Hearts_2: 4877232510619700320
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

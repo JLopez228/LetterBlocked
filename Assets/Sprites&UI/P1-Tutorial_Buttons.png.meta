@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: f3ea005e924bb0b4b97da61dbc370525
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3865778297296344205
+    second: P1-Tutorial_Buttons_0
+  - first:
+      213: -7401839396674090248
+    second: P1-Tutorial_Buttons_1
+  - first:
+      213: -6689972332130885903
+    second: P1-Tutorial_Buttons_2
+  - first:
+      213: -6377516725861159617
+    second: P1-Tutorial_Buttons_3
+  - first:
+      213: 8626530611230350366
+    second: P1-Tutorial_Buttons_4
+  - first:
+      213: 8366766623950511268
+    second: P1-Tutorial_Buttons_5
+  - first:
+      213: 1474816485680105327
+    second: P1-Tutorial_Buttons_6
+  - first:
+      213: 2518356751408137245
+    second: P1-Tutorial_Buttons_7
+  - first:
+      213: 7304583680182292411
+    second: P1-Tutorial_Buttons_8
+  - first:
+      213: 7124251723870773983
+    second: P1-Tutorial_Buttons_9
+  - first:
+      213: 818068886987390232
+    second: P1-Tutorial_Buttons_10
+  - first:
+      213: 8288560015477158878
+    second: P1-Tutorial_Buttons_11
+  - first:
+      213: 1659705333514496752
+    second: P1-Tutorial_Buttons_12
+  - first:
+      213: -6689639080267400286
+    second: P1-Tutorial_Buttons_13
+  - first:
+      213: 1538655366625744960
+    second: P1-Tutorial_Buttons_14
+  - first:
+      213: -5379523221546493407
+    second: P1-Tutorial_Buttons_15
+  - first:
+      213: 2977921216404999181
+    second: P1-Tutorial_Buttons_16
+  - first:
+      213: 8359889798863680325
+    second: P1-Tutorial_Buttons_17
+  - first:
+      213: -3480959023141939491
+    second: P1-Tutorial_Buttons_18
+  - first:
+      213: 5181657152286736702
+    second: P1-Tutorial_Buttons_19
+  - first:
+      213: -42201442622225023
+    second: P1-Tutorial_Buttons_20
+  - first:
+      213: 6403980838504509631
+    second: P1-Tutorial_Buttons_21
+  - first:
+      213: 8971395740534337964
+    second: P1-Tutorial_Buttons_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 79
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bac31de1ff95ac0800000000000000
+      internalID: -3865778297296344205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 77
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8facfbc0942674990800000000000000
+      internalID: -7401839396674090248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe9522eb917823a0800000000000000
+      internalID: -6689972332130885903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 71
+        width: 98
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3deeedc3528e77a0800000000000000
+      internalID: -6377516725861159617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 76
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c1b66b2e797b770800000000000000
+      internalID: 8626530611230350366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_5
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 75
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac1a2b5ae9bc1470800000000000000
+      internalID: 8366766623950511268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 76
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f674ad1a7c9977410800000000000000
+      internalID: 1474816485680105327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 77
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1483616f1003f220800000000000000
+      internalID: 2518356751408137245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 75
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf8161e7281f5560800000000000000
+      internalID: 7304583680182292411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 41
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd228cb623d6ed260800000000000000
+      internalID: 7124251723870773983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 53
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dbea2815d5a5b00800000000000000
+      internalID: 818068886987390232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3b50e5b61e60370800000000000000
+      internalID: 8288560015477158878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_12
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 50
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fae3f31535780710800000000000000
+      internalID: 1659705333514496752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 102
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab371123b0a923a0800000000000000
+      internalID: -6689639080267400286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 30
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048d97f57e66a5510800000000000000
+      internalID: 1538655366625744960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 40
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a91c6c1281855b0800000000000000
+      internalID: -5379523221546493407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 45
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c4be09193b35920800000000000000
+      internalID: 2977921216404999181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5437eaeba7b440470800000000000000
+      internalID: 8359889798863680325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd61feb163621bfc0800000000000000
+      internalID: -3480959023141939491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_19
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c9e5f9b1f8e740800000000000000
+      internalID: 5181657152286736702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_20
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 39
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854e73f2021a6ff0800000000000000
+      internalID: -42201442622225023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0387394a28fd850800000000000000
+      internalID: 6403980838504509631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P1-Tutorial_Buttons_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1700eb4ecc08c70800000000000000
+      internalID: 8971395740534337964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 24a414a5a75947b44abef17b41b17b53
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      P1-Tutorial_Buttons_0: -3865778297296344205
+      P1-Tutorial_Buttons_1: -7401839396674090248
+      P1-Tutorial_Buttons_10: 818068886987390232
+      P1-Tutorial_Buttons_11: 8288560015477158878
+      P1-Tutorial_Buttons_12: 1659705333514496752
+      P1-Tutorial_Buttons_13: -6689639080267400286
+      P1-Tutorial_Buttons_14: 1538655366625744960
+      P1-Tutorial_Buttons_15: -5379523221546493407
+      P1-Tutorial_Buttons_16: 2977921216404999181
+      P1-Tutorial_Buttons_17: 8359889798863680325
+      P1-Tutorial_Buttons_18: -3480959023141939491
+      P1-Tutorial_Buttons_19: 5181657152286736702
+      P1-Tutorial_Buttons_2: -6689972332130885903
+      P1-Tutorial_Buttons_20: -42201442622225023
+      P1-Tutorial_Buttons_21: 6403980838504509631
+      P1-Tutorial_Buttons_22: 8971395740534337964
+      P1-Tutorial_Buttons_3: -6377516725861159617
+      P1-Tutorial_Buttons_4: 8626530611230350366
+      P1-Tutorial_Buttons_5: 8366766623950511268
+      P1-Tutorial_Buttons_6: 1474816485680105327
+      P1-Tutorial_Buttons_7: 2518356751408137245
+      P1-Tutorial_Buttons_8: 7304583680182292411
+      P1-Tutorial_Buttons_9: 7124251723870773983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: a66a81c7ec39f9f41bfcf32642231279
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4150108929980680188
+    second: P9-Typeface_0
+  - first:
+      213: 8582820345558427454
+    second: P9-Typeface_1
+  - first:
+      213: 8266996967086792758
+    second: P9-Typeface_2
+  - first:
+      213: -7033409347437118445
+    second: P9-Typeface_3
+  - first:
+      213: 3924460259036935321
+    second: P9-Typeface_4
+  - first:
+      213: 1233575967313129705
+    second: P9-Typeface_5
+  - first:
+      213: -7498061331781066839
+    second: P9-Typeface_6
+  - first:
+      213: 445278801768043093
+    second: P9-Typeface_7
+  - first:
+      213: 5518104898994746320
+    second: P9-Typeface_8
+  - first:
+      213: -6619111741635970084
+    second: P9-Typeface_9
+  - first:
+      213: 1730765945161635309
+    second: P9-Typeface_10
+  - first:
+      213: -7485827032443649418
+    second: P9-Typeface_11
+  - first:
+      213: -8470258736516517859
+    second: P9-Typeface_12
+  - first:
+      213: -2617821784225566547
+    second: P9-Typeface_13
+  - first:
+      213: 3227002557007871573
+    second: P9-Typeface_14
+  - first:
+      213: 7234455813338518392
+    second: P9-Typeface_15
+  - first:
+      213: -3169106941597417743
+    second: P9-Typeface_16
+  - first:
+      213: 6133825868919434661
+    second: P9-Typeface_17
+  - first:
+      213: 1964411533144054583
+    second: P9-Typeface_18
+  - first:
+      213: -1430703758761309106
+    second: P9-Typeface_19
+  - first:
+      213: 3693625125771381699
+    second: P9-Typeface_20
+  - first:
+      213: 4797655591069945381
+    second: P9-Typeface_21
+  - first:
+      213: -5485165362931166197
+    second: P9-Typeface_22
+  - first:
+      213: -1105513177459618458
+    second: P9-Typeface_23
+  - first:
+      213: 713394902401250024
+    second: P9-Typeface_24
+  - first:
+      213: -2614994323777851843
+    second: P9-Typeface_25
+  - first:
+      213: -278495816690083069
+    second: P9-Typeface_26
+  - first:
+      213: 1426036283947803891
+    second: P9-Typeface_27
+  - first:
+      213: -9067325365946120083
+    second: P9-Typeface_28
+  - first:
+      213: 6075636127106019352
+    second: P9-Typeface_29
+  - first:
+      213: -4581734080419614289
+    second: P9-Typeface_30
+  - first:
+      213: 8482140851847877842
+    second: P9-Typeface_31
+  - first:
+      213: 2975336026691695047
+    second: P9-Typeface_32
+  - first:
+      213: 6201609918863810388
+    second: P9-Typeface_33
+  - first:
+      213: 4310250347685965470
+    second: P9-Typeface_34
+  - first:
+      213: 4923189456791405561
+    second: P9-Typeface_35
+  - first:
+      213: 8651478484102280154
+    second: P9-Typeface_36
+  - first:
+      213: -3469707039156685638
+    second: P9-Typeface_37
+  - first:
+      213: -5560006823716715996
+    second: P9-Typeface_38
+  - first:
+      213: 4882165529794936759
+    second: P9-Typeface_39
+  - first:
+      213: -6027559670167783060
+    second: P9-Typeface_40
+  - first:
+      213: -2745083746415460123
+    second: P9-Typeface_41
+  - first:
+      213: -3249510538289054670
+    second: P9-Typeface_42
+  - first:
+      213: -8279397007559957821
+    second: P9-Typeface_43
+  - first:
+      213: 3141126284198668372
+    second: P9-Typeface_44
+  - first:
+      213: 4260330409206402996
+    second: P9-Typeface_45
+  - first:
+      213: -699340989046642941
+    second: P9-Typeface_46
+  - first:
+      213: 168168088476647640
+    second: P9-Typeface_47
+  - first:
+      213: -6968484414625018403
+    second: P9-Typeface_48
+  - first:
+      213: 7489204194307327499
+    second: P9-Typeface_49
+  - first:
+      213: -7588103738832157219
+    second: P9-Typeface_50
+  - first:
+      213: -4516200483136701275
+    second: P9-Typeface_51
+  - first:
+      213: 2470632379281794570
+    second: P9-Typeface_52
+  - first:
+      213: 9122275279398484964
+    second: P9-Typeface_53
+  - first:
+      213: 7704828396415061381
+    second: P9-Typeface_54
+  - first:
+      213: -9123820020420647460
+    second: P9-Typeface_55
+  - first:
+      213: -6791677278072369150
+    second: P9-Typeface_56
+  - first:
+      213: -4463072591152387292
+    second: P9-Typeface_57
+  - first:
+      213: -7832278329960054008
+    second: P9-Typeface_58
+  - first:
+      213: -6758239474809045536
+    second: P9-Typeface_59
+  - first:
+      213: -8048680923731408928
+    second: P9-Typeface_60
+  - first:
+      213: -1713649441866529678
+    second: P9-Typeface_61
+  - first:
+      213: -300190380966074534
+    second: P9-Typeface_62
+  - first:
+      213: -8672297051174810082
+    second: P9-Typeface_63
+  - first:
+      213: -4886655793882871082
+    second: P9-Typeface_64
+  - first:
+      213: 4541936826718574658
+    second: P9-Typeface_65
+  - first:
+      213: 3998355062471203723
+    second: P9-Typeface_66
+  - first:
+      213: -3225010111427265767
+    second: P9-Typeface_67
+  - first:
+      213: -4168208601628736136
+    second: P9-Typeface_68
+  - first:
+      213: -600492163235461014
+    second: P9-Typeface_69
+  - first:
+      213: -5659486178850063187
+    second: P9-Typeface_70
+  - first:
+      213: -5680331380634683754
+    second: P9-Typeface_71
+  - first:
+      213: 3910742063465443708
+    second: P9-Typeface_72
+  - first:
+      213: -8638262175857990686
+    second: P9-Typeface_73
+  - first:
+      213: 3772989512217635707
+    second: P9-Typeface_74
+  - first:
+      213: 1381854861730848151
+    second: P9-Typeface_75
+  - first:
+      213: 2290376198394864267
+    second: P9-Typeface_76
+  - first:
+      213: 5240552221141742233
+    second: P9-Typeface_77
+  - first:
+      213: -8192954854798850498
+    second: P9-Typeface_78
+  - first:
+      213: -6379821456949119243
+    second: P9-Typeface_79
+  - first:
+      213: -5088859040875845528
+    second: P9-Typeface_80
+  - first:
+      213: -8004440761417507421
+    second: P9-Typeface_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: P9-Typeface_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7cca66516289930800000000000000
+      internalID: 4150108929980680188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37610c61ad4c1770800000000000000
+      internalID: 8582820345558427454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_2
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630a07ee0f54ab270800000000000000
+      internalID: 8266996967086792758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c391e867f446e90800000000000000
+      internalID: -7033409347437118445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994b80b10db767630800000000000000
+      internalID: 3924460259036935321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e078277eca8e1110800000000000000
+      internalID: 1233575967313129705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_6
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afd817f1f881f790800000000000000
+      internalID: -7498061331781066839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552556506b2fd2600800000000000000
+      internalID: 445278801768043093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3bce16b2f349c40800000000000000
+      internalID: 5518104898994746320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbbb27c0f03424a0800000000000000
+      internalID: -6619111741635970084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_10
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5d3b6057ae40810800000000000000
+      internalID: 1730765945161635309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6720e21c9fffc1890800000000000000
+      internalID: -7485827032443649418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10b8467e88937a80800000000000000
+      internalID: -8470258736516517859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0b4f105f0ababd0800000000000000
+      internalID: -2617821784225566547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_14
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e3bbb6abd98cc20800000000000000
+      internalID: 3227002557007871573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_15
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8735d418b33f56460800000000000000
+      internalID: 7234455813338518392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe7cdaf6021504d0800000000000000
+      internalID: -3169106941597417743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad6b0f112abf1550800000000000000
+      internalID: 6133825868919434661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 153
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b5bb9a1edf24b10800000000000000
+      internalID: 1964411533144054583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_19
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 136
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c4738f28e152ce0800000000000000
+      internalID: -1430703758761309106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb8f037b74624330800000000000000
+      internalID: 3693625125771381699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e046c4752b49240800000000000000
+      internalID: 4797655591069945381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_22
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0416300a27c0e3b0800000000000000
+      internalID: -5485165362931166197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d81035f9d68a0f0800000000000000
+      internalID: -1105513177459618458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2733e42ec76e900800000000000000
+      internalID: 713394902401250024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eee81748ca5bbd0800000000000000
+      internalID: -2614994323777851843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_26
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b51ceb785922cf0800000000000000
+      internalID: -278495816690083069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_27
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4e68dd17c4ac310800000000000000
+      internalID: 1426036283947803891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_28
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6884e3de936a2280800000000000000
+      internalID: -9067325365946120083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_29
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103fa41edef05450800000000000000
+      internalID: 6075636127106019352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1b94101296a60c0800000000000000
+      internalID: -4581734080419614289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_31
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4d8391a2e96b570800000000000000
+      internalID: 8482140851847877842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1716e2a548a4920800000000000000
+      internalID: 2975336026691695047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f9a691d5b801650800000000000000
+      internalID: 6201609918863810388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e63d2cad511db30800000000000000
+      internalID: 4310250347685965470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_35
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3000e0abea25440800000000000000
+      internalID: 4923189456791405561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3f9d208d9301870800000000000000
+      internalID: 8651478484102280154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b468c4df19dfc0800000000000000
+      internalID: -3469707039156685638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_38
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4220e938043e6d2b0800000000000000
+      internalID: -5560006823716715996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_39
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf751abeafe0c340800000000000000
+      internalID: 4882165529794936759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69bd255a6ec95ca0800000000000000
+      internalID: -6027559670167783060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_41
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0453070e087e9d0800000000000000
+      internalID: -2745083746415460123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c746fc16b67e2d0800000000000000
+      internalID: -3249510538289054670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_43
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2e4f9a94ca91d80800000000000000
+      internalID: -8279397007559957821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_44
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ed4c86b5879b20800000000000000
+      internalID: 3141126284198668372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bfca8a5febbf1b30800000000000000
+      internalID: 4260330409206402996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_46
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307210363117b46f0800000000000000
+      internalID: -699340989046642941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d005384cf3755200800000000000000
+      internalID: 168168088476647640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd0e637858fa4f90800000000000000
+      internalID: -6968484414625018403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06cd04098ffee760800000000000000
+      internalID: 7489204194307327499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_50
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd588106ad3a1b690800000000000000
+      internalID: -7588103738832157219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_51
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac7034a69b3351c0800000000000000
+      internalID: -4516200483136701275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a066ba91f03794220800000000000000
+      internalID: 2470632379281794570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebbfd3e805d89e70800000000000000
+      internalID: 9122275279398484964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d89a7ca9c0dea60800000000000000
+      internalID: 7704828396415061381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_55
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5ea30180ea16180800000000000000
+      internalID: -9123820020420647460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_56
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200976bdf7d1fb1a0800000000000000
+      internalID: -6791677278072369150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_57
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b649def1bff02c0800000000000000
+      internalID: -4463072591152387292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_58
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803cdb82b582e4390800000000000000
+      internalID: -7832278329960054008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edfbfc1109e532a0800000000000000
+      internalID: -6758239474809045536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_60
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7c686f7575d4090800000000000000
+      internalID: -8048680923731408928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_61
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274cff379e4e738e0800000000000000
+      internalID: -1713649441866529678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_62
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a572781607285dbf0800000000000000
+      internalID: -300190380966074534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_63
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ece0e97cfc5a780800000000000000
+      internalID: -8672297051174810082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_64
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dac102327c1f2cb0800000000000000
+      internalID: -4886655793882871082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_65
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24853dcca73380f30800000000000000
+      internalID: 4541936826718574658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b1b70ceb20d7730800000000000000
+      internalID: 3998355062471203723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bb557f3667e33d0800000000000000
+      internalID: -3225010111427265767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_68
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87501366c5c8726c0800000000000000
+      internalID: -4168208601628736136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_69
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68c1ff1f8f9aa7f0800000000000000
+      internalID: -600492163235461014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_70
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacb86a3e477571b0800000000000000
+      internalID: -5659486178850063187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696f3ca74b86b21b0800000000000000
+      internalID: -5680331380634683754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71390dcf2fb54630800000000000000
+      internalID: 3910742063465443708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3aa4b815abe1880800000000000000
+      internalID: -8638262175857990686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ba101a8f95c5430800000000000000
+      internalID: 3772989512217635707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_75
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d1d94eca55d2310800000000000000
+      internalID: 1381854861730848151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82e55b740d09cf10800000000000000
+      internalID: 2290376198394864267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_77
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992b900ca7e2ab840800000000000000
+      internalID: 5240552221141742233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_78
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3607eab7f6cc4e80800000000000000
+      internalID: -8192954854798850498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_79
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6f128cf225677a0800000000000000
+      internalID: -6379821456949119243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_80
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8686f8c0aadb069b0800000000000000
+      internalID: -5088859040875845528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P9-Typeface_81
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad5d0e69838ae090800000000000000
+      internalID: -8004440761417507421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      P9-Typeface_0: 4150108929980680188
+      P9-Typeface_1: 8582820345558427454
+      P9-Typeface_10: 1730765945161635309
+      P9-Typeface_11: -7485827032443649418
+      P9-Typeface_12: -8470258736516517859
+      P9-Typeface_13: -2617821784225566547
+      P9-Typeface_14: 3227002557007871573
+      P9-Typeface_15: 7234455813338518392
+      P9-Typeface_16: -3169106941597417743
+      P9-Typeface_17: 6133825868919434661
+      P9-Typeface_18: 1964411533144054583
+      P9-Typeface_19: -1430703758761309106
+      P9-Typeface_2: 8266996967086792758
+      P9-Typeface_20: 3693625125771381699
+      P9-Typeface_21: 4797655591069945381
+      P9-Typeface_22: -5485165362931166197
+      P9-Typeface_23: -1105513177459618458
+      P9-Typeface_24: 713394902401250024
+      P9-Typeface_25: -2614994323777851843
+      P9-Typeface_26: -278495816690083069
+      P9-Typeface_27: 1426036283947803891
+      P9-Typeface_28: -9067325365946120083
+      P9-Typeface_29: 6075636127106019352
+      P9-Typeface_3: -7033409347437118445
+      P9-Typeface_30: -4581734080419614289
+      P9-Typeface_31: 8482140851847877842
+      P9-Typeface_32: 2975336026691695047
+      P9-Typeface_33: 6201609918863810388
+      P9-Typeface_34: 4310250347685965470
+      P9-Typeface_35: 4923189456791405561
+      P9-Typeface_36: 8651478484102280154
+      P9-Typeface_37: -3469707039156685638
+      P9-Typeface_38: -5560006823716715996
+      P9-Typeface_39: 4882165529794936759
+      P9-Typeface_4: 3924460259036935321
+      P9-Typeface_40: -6027559670167783060
+      P9-Typeface_41: -2745083746415460123
+      P9-Typeface_42: -3249510538289054670
+      P9-Typeface_43: -8279397007559957821
+      P9-Typeface_44: 3141126284198668372
+      P9-Typeface_45: 4260330409206402996
+      P9-Typeface_46: -699340989046642941
+      P9-Typeface_47: 168168088476647640
+      P9-Typeface_48: -6968484414625018403
+      P9-Typeface_49: 7489204194307327499
+      P9-Typeface_5: 1233575967313129705
+      P9-Typeface_50: -7588103738832157219
+      P9-Typeface_51: -4516200483136701275
+      P9-Typeface_52: 2470632379281794570
+      P9-Typeface_53: 9122275279398484964
+      P9-Typeface_54: 7704828396415061381
+      P9-Typeface_55: -9123820020420647460
+      P9-Typeface_56: -6791677278072369150
+      P9-Typeface_57: -4463072591152387292
+      P9-Typeface_58: -7832278329960054008
+      P9-Typeface_59: -6758239474809045536
+      P9-Typeface_6: -7498061331781066839
+      P9-Typeface_60: -8048680923731408928
+      P9-Typeface_61: -1713649441866529678
+      P9-Typeface_62: -300190380966074534
+      P9-Typeface_63: -8672297051174810082
+      P9-Typeface_64: -4886655793882871082
+      P9-Typeface_65: 4541936826718574658
+      P9-Typeface_66: 3998355062471203723
+      P9-Typeface_67: -3225010111427265767
+      P9-Typeface_68: -4168208601628736136
+      P9-Typeface_69: -600492163235461014
+      P9-Typeface_7: 445278801768043093
+      P9-Typeface_70: -5659486178850063187
+      P9-Typeface_71: -5680331380634683754
+      P9-Typeface_72: 3910742063465443708
+      P9-Typeface_73: -8638262175857990686
+      P9-Typeface_74: 3772989512217635707
+      P9-Typeface_75: 1381854861730848151
+      P9-Typeface_76: 2290376198394864267
+      P9-Typeface_77: 5240552221141742233
+      P9-Typeface_78: -8192954854798850498
+      P9-Typeface_79: -6379821456949119243
+      P9-Typeface_8: 5518104898994746320
+      P9-Typeface_80: -5088859040875845528
+      P9-Typeface_81: -8004440761417507421
+      P9-Typeface_9: -6619111741635970084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

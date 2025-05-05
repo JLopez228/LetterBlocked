@@ -9,6 +9,12 @@ public class PushableObject : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         rb.linearVelocity = Vector3.zero;
     }
+   public bool IsSpaceFree(Vector2 targetPos)
+{
+    BoxCollider2D col = GetComponent<BoxCollider2D>();
+    Collider2D hit = Physics2D.OverlapBox(targetPos, col.size * 0.9f, 0f);
+    return hit == null;
+}
 
     void FixedUpdate()
     {
