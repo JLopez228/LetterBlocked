@@ -1,0 +1,1047 @@
+fileFormatVersion: 2
+guid: 5fe15a8bc9f2c27448112183bf9656bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4309584889971007367
+    second: R2-Buttons_0
+  - first:
+      213: -6293502907091709701
+    second: R2-Buttons_1
+  - first:
+      213: -3487177016086375242
+    second: R2-Buttons_2
+  - first:
+      213: 1377912444524899230
+    second: R2-Buttons_3
+  - first:
+      213: 500365441593888488
+    second: R2-Buttons_4
+  - first:
+      213: 8117618390217779677
+    second: R2-Buttons_5
+  - first:
+      213: 34921258716789596
+    second: R2-Buttons_6
+  - first:
+      213: 8280315742845301317
+    second: R2-Buttons_7
+  - first:
+      213: -5903674449587007270
+    second: R2-Buttons_8
+  - first:
+      213: 8376996333227084471
+    second: R2-Buttons_9
+  - first:
+      213: -8106628623490581118
+    second: R2-Buttons_10
+  - first:
+      213: 481062302091138910
+    second: R2-Buttons_11
+  - first:
+      213: -7435961172331636379
+    second: R2-Buttons_12
+  - first:
+      213: -2942121160829972322
+    second: R2-Buttons_13
+  - first:
+      213: -1566993355939420861
+    second: R2-Buttons_14
+  - first:
+      213: -612073927195586670
+    second: R2-Buttons_15
+  - first:
+      213: 2336160733519376813
+    second: R2-Buttons_16
+  - first:
+      213: -363689458132236727
+    second: R2-Buttons_17
+  - first:
+      213: -8345525778447654511
+    second: R2-Buttons_18
+  - first:
+      213: -3892093917549826319
+    second: R2-Buttons_19
+  - first:
+      213: -3858518097876840314
+    second: R2-Buttons_20
+  - first:
+      213: -6064777494999795717
+    second: R2-Buttons_21
+  - first:
+      213: 6456282268712795721
+    second: R2-Buttons_22
+  - first:
+      213: -5306939160942710567
+    second: R2-Buttons_23
+  - first:
+      213: -8813555418523417919
+    second: R2-Buttons_24
+  - first:
+      213: 3798781039092797107
+    second: R2-Buttons_25
+  - first:
+      213: 8571214731678992518
+    second: R2-Buttons_26
+  - first:
+      213: 3877760747683698506
+    second: R2-Buttons_27
+  - first:
+      213: 4206952440780765582
+    second: R2-Buttons_28
+  - first:
+      213: -1917604489781391286
+    second: R2-Buttons_29
+  - first:
+      213: -4140391980434398725
+    second: R2-Buttons_30
+  - first:
+      213: -2779474178809810798
+    second: R2-Buttons_31
+  - first:
+      213: 5097087139781943256
+    second: R2-Buttons_32
+  - first:
+      213: -1222214552432420486
+    second: R2-Buttons_33
+  - first:
+      213: 3186578554117957205
+    second: R2-Buttons_34
+  - first:
+      213: 1255017234555353696
+    second: R2-Buttons_35
+  - first:
+      213: 6207596592996014767
+    second: R2-Buttons_36
+  - first:
+      213: -5527311349197693218
+    second: R2-Buttons_37
+  - first:
+      213: -7512682595134152609
+    second: R2-Buttons_38
+  - first:
+      213: 7788083980476635468
+    second: R2-Buttons_39
+  - first:
+      213: -7004192828804610370
+    second: R2-Buttons_40
+  - first:
+      213: -1375682369561602380
+    second: R2-Buttons_41
+  - first:
+      213: 2303495472437311781
+    second: R2-Buttons_42
+  - first:
+      213: -4236370020648538230
+    second: R2-Buttons_43
+  - first:
+      213: 1770508986681853553
+    second: R2-Buttons_44
+  - first:
+      213: 8453603842284932120
+    second: R2-Buttons_45
+  - first:
+      213: 3626774984133250213
+    second: R2-Buttons_46
+  - first:
+      213: 2283210716912550670
+    second: R2-Buttons_47
+  - first:
+      213: -6904022747789354241
+    second: R2-Buttons_48
+  - first:
+      213: -4738962872357718334
+    second: R2-Buttons_49
+  - first:
+      213: -2377052564878931541
+    second: R2-Buttons_50
+  - first:
+      213: 5279436249521311556
+    second: R2-Buttons_51
+  - first:
+      213: 999942596138757831
+    second: R2-Buttons_52
+  - first:
+      213: 1647559086089419277
+    second: R2-Buttons_53
+  - first:
+      213: 4000661053076985608
+    second: R2-Buttons_54
+  - first:
+      213: -7625180727059631700
+    second: R2-Buttons_55
+  - first:
+      213: -6818422064701028217
+    second: R2-Buttons_56
+  - first:
+      213: -7595688461761980962
+    second: R2-Buttons_57
+  - first:
+      213: -2830522210000900226
+    second: R2-Buttons_58
+  - first:
+      213: 8584899269600693928
+    second: R2-Buttons_59
+  - first:
+      213: -5695911813102298572
+    second: R2-Buttons_60
+  - first:
+      213: -9004201038181798633
+    second: R2-Buttons_61
+  - first:
+      213: -7026071352577623829
+    second: R2-Buttons_62
+  - first:
+      213: 6744283874281595010
+    second: R2-Buttons_63
+  - first:
+      213: -5492832878645044414
+    second: R2-Buttons_64
+  - first:
+      213: 561040100748182319
+    second: R2-Buttons_65
+  - first:
+      213: 8298460188824699849
+    second: R2-Buttons_66
+  - first:
+      213: -1195036670589525670
+    second: R2-Buttons_67
+  - first:
+      213: -4270236284365495617
+    second: R2-Buttons_68
+  - first:
+      213: 8353630889549686354
+    second: R2-Buttons_69
+  - first:
+      213: -5991047661563027680
+    second: R2-Buttons_70
+  - first:
+      213: -4456147808340281166
+    second: R2-Buttons_71
+  - first:
+      213: 8046435319829827208
+    second: R2-Buttons_72
+  - first:
+      213: 4078797501518027025
+    second: R2-Buttons_73
+  - first:
+      213: -5866270858047297127
+    second: R2-Buttons_74
+  - first:
+      213: -6948670567389044056
+    second: R2-Buttons_75
+  - first:
+      213: 4138672966896819446
+    second: R2-Buttons_76
+  - first:
+      213: 6722398345938720114
+    second: R2-Buttons_77
+  - first:
+      213: -6885065481879868458
+    second: R2-Buttons_78
+  - first:
+      213: 8000235926573688409
+    second: R2-Buttons_79
+  - first:
+      213: 6336168505518904081
+    second: R2-Buttons_80
+  - first:
+      213: 8250853080713777719
+    second: R2-Buttons_81
+  - first:
+      213: 7068437006209459014
+    second: R2-Buttons_82
+  - first:
+      213: -5159017762737832044
+    second: R2-Buttons_83
+  - first:
+      213: -3552395522817520378
+    second: R2-Buttons_84
+  - first:
+      213: -4070612670977320236
+    second: R2-Buttons_85
+  - first:
+      213: 304549192653615231
+    second: R2-Buttons_86
+  - first:
+      213: 3438710041831708281
+    second: R2-Buttons_87
+  - first:
+      213: -2172773723821947672
+    second: R2-Buttons_88
+  - first:
+      213: -7328062212170144421
+    second: R2-Buttons_89
+  - first:
+      213: 1288891746858264520
+    second: R2-Buttons_90
+  - first:
+      213: 4164486470013475809
+    second: R2-Buttons_91
+  - first:
+      213: -5606304320711867638
+    second: R2-Buttons_92
+  - first:
+      213: -4970635870926637281
+    second: R2-Buttons_93
+  - first:
+      213: -1034015384236552135
+    second: R2-Buttons_94
+  - first:
+      213: -9122930052356461008
+    second: R2-Buttons_95
+  - first:
+      213: -711566335620969225
+    second: R2-Buttons_96
+  - first:
+      213: 1250213117775376838
+    second: R2-Buttons_97
+  - first:
+      213: -1903902297733325177
+    second: R2-Buttons_98
+  - first:
+      213: 2641964758670638568
+    second: R2-Buttons_99
+  - first:
+      213: -7999744060336498782
+    second: R2-Buttons_100
+  - first:
+      213: 8455721967022769144
+    second: R2-Buttons_101
+  - first:
+      213: 1830281802855976105
+    second: R2-Buttons_102
+  - first:
+      213: -6020643850399394802
+    second: R2-Buttons_103
+  - first:
+      213: 1019175689163439206
+    second: R2-Buttons_104
+  - first:
+      213: 5402256968522373046
+    second: R2-Buttons_105
+  - first:
+      213: -5434332815150210038
+    second: R2-Buttons_106
+  - first:
+      213: -6550436369065158096
+    second: R2-Buttons_107
+  - first:
+      213: 7573370698857009846
+    second: R2-Buttons_108
+  - first:
+      213: 7649112034680644902
+    second: R2-Buttons_109
+  - first:
+      213: -2727626197463005910
+    second: R2-Buttons_110
+  - first:
+      213: -5248133102815852803
+    second: R2-Buttons_111
+  - first:
+      213: 9189928330786976261
+    second: R2-Buttons_112
+  - first:
+      213: -2747411288898494579
+    second: R2-Buttons_113
+  - first:
+      213: 247630782651445913
+    second: R2-Buttons_114
+  - first:
+      213: -5238411503304651637
+    second: R2-Buttons_115
+  - first:
+      213: -7083195083375932140
+    second: R2-Buttons_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: D-Start
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 648
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fdc10df98becb30800000000000000
+      internalID: 4309584889971007367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D-Resume
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 648
+        width: 202
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf019ed437cf8a8a0800000000000000
+      internalID: -6293502907091709701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Resume
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 594
+        width: 202
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4d34fcafe0b9fc0800000000000000
+      internalID: -3487177016086375242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D-Credits
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 648
+        width: 236
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5427e501c4799e270800000000000000
+      internalID: 8280315742845301317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Menu
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 594
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34565d558dbe04ae0800000000000000
+      internalID: -1566993355939420861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Credits
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 594
+        width: 236
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7f0c8300595dba0800000000000000
+      internalID: -6064777494999795717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Menu
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 546
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8933bb94f8126a30800000000000000
+      internalID: 4206952440780765582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Resume
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 546
+        width: 202
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40d2ee50ec4365e0800000000000000
+      internalID: -1917604489781391286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Credits
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 546
+        width: 236
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a3aa48687ba6110800000000000000
+      internalID: 1255017234555353696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D-Tutorial
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 478
+        width: 270
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529b8508de8a7ff10800000000000000
+      internalID: 2303495472437311781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D-Exit
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 478
+        width: 134
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9c5f15943030fd0800000000000000
+      internalID: -2377052564878931541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Tutorial
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 424
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807d4670804358730800000000000000
+      internalID: 4000661053076985608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Exit
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 424
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ff0f94516e7e90800000000000000
+      internalID: -7026071352577623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Tutorial
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 376
+        width: 270
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30e99139d0a2370800000000000000
+      internalID: 8298460188824699849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Exit
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 376
+        width: 134
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9996dd54cb1d69ea0800000000000000
+      internalID: -5866270858047297127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: D-Settings
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 308
+        width: 270
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db2f314c655370a0800000000000000
+      internalID: -6885065481879868458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: -Exit
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 308
+        width: 168
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7030cc80e9f93400800000000000000
+      internalID: 304549192653615231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Settings
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 253
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebd21d416a3bc930800000000000000
+      internalID: 4164486470013475809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: H-Start
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 254
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf9a543f42aa420800000000000000
+      internalID: 2641964758670638568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Settings
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 206
+        width: 270
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cfc44b3e6d42e00800000000000000
+      internalID: 1019175689163439206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: P-Start
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 206
+        width: 168
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023bd3602f298f70800000000000000
+      internalID: 9189928330786976261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7ff19dbbc8a4e3d49b3a6200a1b18319
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      -Exit: 304549192653615231
+      D-Credits: 8280315742845301317
+      D-Exit: -2377052564878931541
+      D-Resume: -6293502907091709701
+      D-Settings: -6885065481879868458
+      D-Start: 4309584889971007367
+      D-Tutorial: 2303495472437311781
+      H-Credits: -6064777494999795717
+      H-Exit: -7026071352577623829
+      H-Menu: -1566993355939420861
+      H-Resume: -3487177016086375242
+      H-Settings: 4164486470013475809
+      H-Start: 2641964758670638568
+      H-Tutorial: 4000661053076985608
+      P-Credits: 1255017234555353696
+      P-Exit: -5866270858047297127
+      P-Menu: 4206952440780765582
+      P-Resume: -1917604489781391286
+      P-Settings: 1019175689163439206
+      P-Start: 9189928330786976261
+      P-Tutorial: 8298460188824699849
+      R2-Buttons_10: -8106628623490581118
+      R2-Buttons_100: -7999744060336498782
+      R2-Buttons_101: 8455721967022769144
+      R2-Buttons_102: 1830281802855976105
+      R2-Buttons_103: -6020643850399394802
+      R2-Buttons_105: 5402256968522373046
+      R2-Buttons_106: -5434332815150210038
+      R2-Buttons_107: -6550436369065158096
+      R2-Buttons_108: 7573370698857009846
+      R2-Buttons_109: 7649112034680644902
+      R2-Buttons_11: 481062302091138910
+      R2-Buttons_110: -2727626197463005910
+      R2-Buttons_111: -5248133102815852803
+      R2-Buttons_113: -2747411288898494579
+      R2-Buttons_114: 247630782651445913
+      R2-Buttons_115: -5238411503304651637
+      R2-Buttons_116: -7083195083375932140
+      R2-Buttons_12: -7435961172331636379
+      R2-Buttons_13: -2942121160829972322
+      R2-Buttons_15: -612073927195586670
+      R2-Buttons_16: 2336160733519376813
+      R2-Buttons_17: -363689458132236727
+      R2-Buttons_18: -8345525778447654511
+      R2-Buttons_19: -3892093917549826319
+      R2-Buttons_20: -3858518097876840314
+      R2-Buttons_22: 6456282268712795721
+      R2-Buttons_23: -5306939160942710567
+      R2-Buttons_24: -8813555418523417919
+      R2-Buttons_25: 3798781039092797107
+      R2-Buttons_26: 8571214731678992518
+      R2-Buttons_27: 3877760747683698506
+      R2-Buttons_3: 1377912444524899230
+      R2-Buttons_30: -4140391980434398725
+      R2-Buttons_31: -2779474178809810798
+      R2-Buttons_32: 5097087139781943256
+      R2-Buttons_33: -1222214552432420486
+      R2-Buttons_34: 3186578554117957205
+      R2-Buttons_36: 6207596592996014767
+      R2-Buttons_37: -5527311349197693218
+      R2-Buttons_38: -7512682595134152609
+      R2-Buttons_39: 7788083980476635468
+      R2-Buttons_4: 500365441593888488
+      R2-Buttons_40: -7004192828804610370
+      R2-Buttons_41: -1375682369561602380
+      R2-Buttons_43: -4236370020648538230
+      R2-Buttons_44: 1770508986681853553
+      R2-Buttons_45: 8453603842284932120
+      R2-Buttons_46: 3626774984133250213
+      R2-Buttons_47: 2283210716912550670
+      R2-Buttons_48: -6904022747789354241
+      R2-Buttons_49: -4738962872357718334
+      R2-Buttons_5: 8117618390217779677
+      R2-Buttons_51: 5279436249521311556
+      R2-Buttons_52: 999942596138757831
+      R2-Buttons_53: 1647559086089419277
+      R2-Buttons_55: -7625180727059631700
+      R2-Buttons_56: -6818422064701028217
+      R2-Buttons_57: -7595688461761980962
+      R2-Buttons_58: -2830522210000900226
+      R2-Buttons_59: 8584899269600693928
+      R2-Buttons_6: 34921258716789596
+      R2-Buttons_60: -5695911813102298572
+      R2-Buttons_61: -9004201038181798633
+      R2-Buttons_63: 6744283874281595010
+      R2-Buttons_64: -5492832878645044414
+      R2-Buttons_65: 561040100748182319
+      R2-Buttons_67: -1195036670589525670
+      R2-Buttons_68: -4270236284365495617
+      R2-Buttons_69: 8353630889549686354
+      R2-Buttons_70: -5991047661563027680
+      R2-Buttons_71: -4456147808340281166
+      R2-Buttons_72: 8046435319829827208
+      R2-Buttons_73: 4078797501518027025
+      R2-Buttons_75: -6948670567389044056
+      R2-Buttons_76: 4138672966896819446
+      R2-Buttons_77: 6722398345938720114
+      R2-Buttons_79: 8000235926573688409
+      R2-Buttons_8: -5903674449587007270
+      R2-Buttons_80: 6336168505518904081
+      R2-Buttons_81: 8250853080713777719
+      R2-Buttons_82: 7068437006209459014
+      R2-Buttons_83: -5159017762737832044
+      R2-Buttons_84: -3552395522817520378
+      R2-Buttons_85: -4070612670977320236
+      R2-Buttons_87: 3438710041831708281
+      R2-Buttons_88: -2172773723821947672
+      R2-Buttons_89: -7328062212170144421
+      R2-Buttons_9: 8376996333227084471
+      R2-Buttons_90: 1288891746858264520
+      R2-Buttons_92: -5606304320711867638
+      R2-Buttons_93: -4970635870926637281
+      R2-Buttons_94: -1034015384236552135
+      R2-Buttons_95: -9122930052356461008
+      R2-Buttons_96: -711566335620969225
+      R2-Buttons_97: 1250213117775376838
+      R2-Buttons_98: -1903902297733325177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
