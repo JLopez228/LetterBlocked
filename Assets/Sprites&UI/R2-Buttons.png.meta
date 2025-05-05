@@ -448,7 +448,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: D-Start
+      name: D-Options
       rect:
         serializedVersion: 2
         x: 2
@@ -536,7 +536,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: H-Menu
+      name: H-Options
       rect:
         serializedVersion: 2
         x: 2
@@ -580,7 +580,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P-Menu
+      name: P-Options
       rect:
         serializedVersion: 2
         x: 2
@@ -800,7 +800,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: -Exit
+      name: D-Star
       rect:
         serializedVersion: 2
         x: 376
@@ -923,23 +923,23 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      -Exit: 304549192653615231
       D-Credits: 8280315742845301317
       D-Exit: -2377052564878931541
+      D-Options: 4309584889971007367
       D-Resume: -6293502907091709701
       D-Settings: -6885065481879868458
-      D-Start: 4309584889971007367
+      D-Star: 304549192653615231
       D-Tutorial: 2303495472437311781
       H-Credits: -6064777494999795717
       H-Exit: -7026071352577623829
-      H-Menu: -1566993355939420861
+      H-Options: -1566993355939420861
       H-Resume: -3487177016086375242
       H-Settings: 4164486470013475809
       H-Start: 2641964758670638568
       H-Tutorial: 4000661053076985608
       P-Credits: 1255017234555353696
       P-Exit: -5866270858047297127
-      P-Menu: 4206952440780765582
+      P-Options: 4206952440780765582
       P-Resume: -1917604489781391286
       P-Settings: 1019175689163439206
       P-Start: 9189928330786976261

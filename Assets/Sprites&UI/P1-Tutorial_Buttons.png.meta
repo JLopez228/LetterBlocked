@@ -103,7 +103,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -117,7 +117,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -169,10 +169,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_0
       rect:
         serializedVersion: 2
-        x: 11
-        y: 79
-        width: 14
-        height: 14
+        x: 1
+        y: 69
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,10 +191,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 77
-        width: 24
-        height: 18
+        x: 35
+        y: 69
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,10 +213,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_2
       rect:
         serializedVersion: 2
-        x: 73
-        y: 77
-        width: 24
-        height: 18
+        x: 69
+        y: 69
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,10 +235,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_3
       rect:
         serializedVersion: 2
-        x: 107
-        y: 71
-        width: 98
-        height: 28
+        x: 103
+        y: 69
+        width: 101
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -257,10 +257,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_4
       rect:
         serializedVersion: 2
-        x: 119
-        y: 76
-        width: 13
-        height: 19
+        x: 103
+        y: 1
+        width: 101
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,10 +279,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_5
       rect:
         serializedVersion: 2
-        x: 133
-        y: 75
-        width: 20
-        height: 21
+        x: 69
+        y: 1
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -301,10 +301,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_6
       rect:
         serializedVersion: 2
-        x: 154
-        y: 76
-        width: 15
-        height: 20
+        x: 35
+        y: 35
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,10 +323,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_7
       rect:
         serializedVersion: 2
-        x: 172
-        y: 77
-        width: 13
-        height: 20
+        x: 69
+        y: 35
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -342,35 +342,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P1-Tutorial_Buttons_8
-      rect:
-        serializedVersion: 2
-        x: 186
-        y: 75
-        width: 13
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bbf8161e7281f5560800000000000000
-      internalID: 7304583680182292411
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: P1-Tutorial_Buttons_9
       rect:
         serializedVersion: 2
-        x: 5
-        y: 41
-        width: 11
-        height: 23
+        x: 1
+        y: 35
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -386,123 +364,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P1-Tutorial_Buttons_10
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 53
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81dbea2815d5a5b00800000000000000
-      internalID: 818068886987390232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_11
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 48
-        width: 12
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed3b50e5b61e60370800000000000000
-      internalID: 8288560015477158878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_12
-      rect:
-        serializedVersion: 2
-        x: 46
-        y: 50
-        width: 22
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fae3f31535780710800000000000000
-      internalID: 1659705333514496752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_13
-      rect:
-        serializedVersion: 2
-        x: 102
-        y: 34
-        width: 102
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2ab371123b0a923a0800000000000000
-      internalID: -6689639080267400286
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_14
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 61
-        width: 30
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 048d97f57e66a5510800000000000000
-      internalID: 1538655366625744960
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: P1-Tutorial_Buttons_15
       rect:
         serializedVersion: 2
-        x: 149
-        y: 63
-        width: 40
-        height: 6
+        x: 103
+        y: 35
+        width: 101
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -518,123 +386,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: P1-Tutorial_Buttons_16
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 45
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d0c4be09193b35920800000000000000
-      internalID: 2977921216404999181
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_17
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 40
-        width: 17
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5437eaeba7b440470800000000000000
-      internalID: 8359889798863680325
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_18
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 39
-        width: 14
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd61feb163621bfc0800000000000000
-      internalID: -3480959023141939491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_19
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 43
-        width: 24
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e31c9e5f9b1f8e740800000000000000
-      internalID: 5181657152286736702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: P1-Tutorial_Buttons_20
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 39
-        width: 16
-        height: 12
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1854e73f2021a6ff0800000000000000
-      internalID: -42201442622225023
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: P1-Tutorial_Buttons_21
       rect:
         serializedVersion: 2
-        x: 0
-        y: 2
-        width: 35
-        height: 35
+        x: 1
+        y: 1
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -653,10 +411,10 @@ TextureImporter:
       name: P1-Tutorial_Buttons_22
       rect:
         serializedVersion: 2
-        x: 34
-        y: 0
-        width: 35
-        height: 38
+        x: 35
+        y: 1
+        width: 33
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}

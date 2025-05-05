@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 355797e563d0f19418277d4878cf249c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8238714017116273518
+    second: R3-Buttons_0
+  - first:
+      213: 925853335304277239
+    second: R3-Buttons_1
+  - first:
+      213: 985838359568475165
+    second: R3-Buttons_2
+  - first:
+      213: -4509876888880822848
+    second: R3-Buttons_3
+  - first:
+      213: 2950131631867171448
+    second: R3-Buttons_4
+  - first:
+      213: 6392203991148643686
+    second: R3-Buttons_5
+  - first:
+      213: -3161374962860369856
+    second: R3-Buttons_6
+  - first:
+      213: 737068092489892102
+    second: R3-Buttons_7
+  - first:
+      213: -6400854447023411353
+    second: R3-Buttons_8
+  - first:
+      213: 3115593332715035533
+    second: R3-Buttons_9
+  - first:
+      213: -4134853724337511572
+    second: R3-Buttons_10
+  - first:
+      213: -1405394156036861691
+    second: R3-Buttons_11
+  - first:
+      213: -1706957440051993309
+    second: R3-Buttons_12
+  - first:
+      213: -8792430092741888906
+    second: R3-Buttons_13
+  - first:
+      213: -852207248191817657
+    second: R3-Buttons_14
+  - first:
+      213: 5637987455480940489
+    second: R3-Buttons_15
+  - first:
+      213: 3529011533945901863
+    second: R3-Buttons_16
+  - first:
+      213: -3169373288264590014
+    second: R3-Buttons_17
+  - first:
+      213: 4259572009021946107
+    second: R3-Buttons_18
+  - first:
+      213: -3531639204852995492
+    second: R3-Buttons_19
+  - first:
+      213: 5459902558843553972
+    second: R3-Buttons_20
+  - first:
+      213: 5692765323167368293
+    second: R3-Buttons_21
+  - first:
+      213: -7360467412081684801
+    second: R3-Buttons_22
+  - first:
+      213: -6506928358989024913
+    second: R3-Buttons_23
+  - first:
+      213: 1867134065847849192
+    second: R3-Buttons_24
+  - first:
+      213: -2045055028572989442
+    second: R3-Buttons_25
+  - first:
+      213: 4840903713974489238
+    second: R3-Buttons_26
+  - first:
+      213: -7438133431434107854
+    second: R3-Buttons_27
+  - first:
+      213: -8356429185929147462
+    second: R3-Buttons_28
+  - first:
+      213: 2835985513129185250
+    second: R3-Buttons_29
+  - first:
+      213: 3708275424105898667
+    second: R3-Buttons_30
+  - first:
+      213: 5357382466610876480
+    second: R3-Buttons_31
+  - first:
+      213: 5289364441302725019
+    second: R3-Buttons_32
+  - first:
+      213: 3001785373624974158
+    second: R3-Buttons_33
+  - first:
+      213: -2505315363914211064
+    second: R3-Buttons_34
+  - first:
+      213: -1085504953736798050
+    second: R3-Buttons_35
+  - first:
+      213: 2088209549795067051
+    second: R3-Buttons_36
+  - first:
+      213: -2713373000546271052
+    second: R3-Buttons_37
+  - first:
+      213: 8902641456934872783
+    second: R3-Buttons_38
+  - first:
+      213: -8615338412436778344
+    second: R3-Buttons_39
+  - first:
+      213: 8404529801802114809
+    second: R3-Buttons_40
+  - first:
+      213: -2939553939031572190
+    second: R3-Buttons_41
+  - first:
+      213: -7202499131079004184
+    second: R3-Buttons_42
+  - first:
+      213: 3166366387209154581
+    second: R3-Buttons_43
+  - first:
+      213: -2944106504513031276
+    second: R3-Buttons_44
+  - first:
+      213: -7036109425386586610
+    second: R3-Buttons_45
+  - first:
+      213: 9222593567462438115
+    second: R3-Buttons_46
+  - first:
+      213: -7221288453396963589
+    second: R3-Buttons_47
+  - first:
+      213: -4256737173742497373
+    second: R3-Buttons_48
+  - first:
+      213: -733728298643644915
+    second: R3-Buttons_49
+  - first:
+      213: 5197315458448170175
+    second: R3-Buttons_50
+  - first:
+      213: -2146350134341867087
+    second: R3-Buttons_51
+  - first:
+      213: 5843374975204936912
+    second: R3-Buttons_52
+  - first:
+      213: -8242151389106412641
+    second: R3-Buttons_53
+  - first:
+      213: 8750705549477929363
+    second: R3-Buttons_54
+  - first:
+      213: -6690542315327328035
+    second: R3-Buttons_55
+  - first:
+      213: -713049925069436326
+    second: R3-Buttons_56
+  - first:
+      213: -7150820189100588430
+    second: R3-Buttons_57
+  - first:
+      213: 2068123816806040955
+    second: R3-Buttons_58
+  - first:
+      213: 1434179905284522059
+    second: R3-Buttons_59
+  - first:
+      213: -2211528169357025862
+    second: R3-Buttons_60
+  - first:
+      213: 4825691634326952959
+    second: R3-Buttons_61
+  - first:
+      213: 1442309398210571994
+    second: R3-Buttons_62
+  - first:
+      213: -2633471145024554026
+    second: R3-Buttons_63
+  - first:
+      213: -1792741162462201701
+    second: R3-Buttons_64
+  - first:
+      213: 7254078019324812930
+    second: R3-Buttons_65
+  - first:
+      213: -41657510361196834
+    second: R3-Buttons_66
+  - first:
+      213: -6356326827194327730
+    second: R3-Buttons_67
+  - first:
+      213: 6015023718134675008
+    second: R3-Buttons_68
+  - first:
+      213: -8391263768263290032
+    second: R3-Buttons_69
+  - first:
+      213: 7922600416277324065
+    second: R3-Buttons_70
+  - first:
+      213: 3366356999917193108
+    second: R3-Buttons_71
+  - first:
+      213: 75595646770581677
+    second: R3-Buttons_72
+  - first:
+      213: 8855941289517844692
+    second: R3-Buttons_73
+  - first:
+      213: 1906505955660464650
+    second: R3-Buttons_74
+  - first:
+      213: -8287131391782737328
+    second: R3-Buttons_75
+  - first:
+      213: -6814429290847131195
+    second: R3-Buttons_76
+  - first:
+      213: 3256173595986210282
+    second: R3-Buttons_77
+  - first:
+      213: -1830510943027053921
+    second: R3-Buttons_78
+  - first:
+      213: -4628736964478871227
+    second: R3-Buttons_79
+  - first:
+      213: 169488195466558513
+    second: R3-Buttons_80
+  - first:
+      213: 588328035475211547
+    second: R3-Buttons_81
+  - first:
+      213: 4217919660745402539
+    second: R3-Buttons_82
+  - first:
+      213: 2141620167704357511
+    second: R3-Buttons_83
+  - first:
+      213: -3960004996008772511
+    second: R3-Buttons_84
+  - first:
+      213: 1934021663436139616
+    second: R3-Buttons_85
+  - first:
+      213: 2811269961370940213
+    second: R3-Buttons_86
+  - first:
+      213: 5358545750835695106
+    second: R3-Buttons_87
+  - first:
+      213: 5668759211562442350
+    second: R3-Buttons_88
+  - first:
+      213: 8978380457265136315
+    second: R3-Buttons_89
+  - first:
+      213: -4178775358099026824
+    second: R3-Buttons_90
+  - first:
+      213: -2835261079513286791
+    second: R3-Buttons_91
+  - first:
+      213: -8515049631986178675
+    second: R3-Buttons_92
+  - first:
+      213: 2767330362613129917
+    second: R3-Buttons_93
+  - first:
+      213: -4344927113793734335
+    second: R3-Buttons_94
+  - first:
+      213: 8268409584490631726
+    second: R3-Buttons_95
+  - first:
+      213: 4490431086006433142
+    second: R3-Buttons_96
+  - first:
+      213: -8377703724844727587
+    second: R3-Buttons_97
+  - first:
+      213: -9164071236399824447
+    second: R3-Buttons_98
+  - first:
+      213: -6297886699065720020
+    second: R3-Buttons_99
+  - first:
+      213: 4026433899878272681
+    second: R3-Buttons_100
+  - first:
+      213: 3199406827973851612
+    second: R3-Buttons_101
+  - first:
+      213: 1008529714739461911
+    second: R3-Buttons_102
+  - first:
+      213: 2648210768666954989
+    second: R3-Buttons_103
+  - first:
+      213: 4086972152696764415
+    second: R3-Buttons_104
+  - first:
+      213: -8613036044174370631
+    second: R3-Buttons_105
+  - first:
+      213: -7502433484642448863
+    second: R3-Buttons_106
+  - first:
+      213: 6279027003877948248
+    second: R3-Buttons_107
+  - first:
+      213: -5912809046483944801
+    second: R3-Buttons_108
+  - first:
+      213: 4863231422049767194
+    second: R3-Buttons_109
+  - first:
+      213: -9059372883973779929
+    second: R3-Buttons_110
+  - first:
+      213: 7883429483803225787
+    second: R3-Buttons_111
+  - first:
+      213: -1369474701877263933
+    second: R3-Buttons_112
+  - first:
+      213: 878882650767544121
+    second: R3-Buttons_113
+  - first:
+      213: 4032630538043499163
+    second: R3-Buttons_114
+  - first:
+      213: 6964257694420124515
+    second: R3-Buttons_115
+  - first:
+      213: 3293100513161011076
+    second: R3-Buttons_116
+  - first:
+      213: 2689352959648318550
+    second: R3-Buttons_117
+  - first:
+      213: -5384785703809572497
+    second: R3-Buttons_118
+  - first:
+      213: -8777042803299762601
+    second: R3-Buttons_119
+  - first:
+      213: 9191902963608359376
+    second: R3-Buttons_120
+  - first:
+      213: -3769976230626717561
+    second: R3-Buttons_121
+  - first:
+      213: 8875719315048338121
+    second: R3-Buttons_122
+  - first:
+      213: 5141146873564443105
+    second: R3-Buttons_123
+  - first:
+      213: 2960156434283471694
+    second: R3-Buttons_124
+  - first:
+      213: 1906508755436048289
+    second: R3-Buttons_125
+  - first:
+      213: 8267858563690886342
+    second: R3-Buttons_126
+  - first:
+      213: 855604321732409668
+    second: R3-Buttons_127
+  - first:
+      213: -2292173262948020918
+    second: R3-Buttons_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R3-Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 614
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b3f3c7fbac55270800000000000000
+      internalID: 8238714017116273518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 610
+        width: 202
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0cecf3ba49dc00800000000000000
+      internalID: 925853335304277239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_13
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 610
+        width: 236
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6743aa93a630bf580800000000000000
+      internalID: -8792430092741888906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 560
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7487380e50a5c24f0800000000000000
+      internalID: -852207248191817657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 560
+        width: 202
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7cc0c28b72e3e40800000000000000
+      internalID: 5637987455480940489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_21
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 560
+        width: 236
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5648d0d56e3c00f40800000000000000
+      internalID: 5692765323167368293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 512
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb8cfdfdeff70c80800000000000000
+      internalID: -8356429185929147462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_29
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 508
+        width: 202
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef083a6cc17b5720800000000000000
+      internalID: 2835985513129185250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_35
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 508
+        width: 236
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90679eeef28fe0f0800000000000000
+      internalID: -1085504953736798050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 440
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efe9f463359b0c90800000000000000
+      internalID: -7202499131079004184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_50
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 440
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc13767fd2902840800000000000000
+      internalID: 5197315458448170175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_54
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 440
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391eba28550c07970800000000000000
+      internalID: 8750705549477929363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 390
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75cf3c67a373bc10800000000000000
+      internalID: 2068123816806040955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_66
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 390
+        width: 134
+        height: 40
+      alignment: 9
+      pivot: {x: 0.55656254, y: 0.5591728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed691bc07b00c6ff0800000000000000
+      internalID: -41657510361196834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_70
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 390
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12162955a1bb2fd60800000000000000
+      internalID: 7922600416277324065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 338
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a020f49c015457a10800000000000000
+      internalID: 1906505955660464650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_82
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 338
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8addd759f098a30800000000000000
+      internalID: 4217919660745402539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_86
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 338
+        width: 134
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533bd379223a30720800000000000000
+      internalID: 2811269961370940213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 270
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c0a50b3f10206c0800000000000000
+      internalID: -4178775358099026824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_98
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 271
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1830a83cda2d080800000000000000
+      internalID: -9164071236399824447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_103
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 220
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec02ccc9a550c420800000000000000
+      internalID: 2648210768666954989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_111
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 220
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeaee9e851976d60800000000000000
+      internalID: 7883429483803225787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_116
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 168
+        width: 270
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f5e98187173bd20800000000000000
+      internalID: 3293100513161011076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R3-Buttons_124
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 168
+        width: 168
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ad09e796941920800000000000000
+      internalID: 2960156434283471694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7c2b2280abc22824586ab38fc1394964
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      R3-Buttons_0: 8238714017116273518
+      R3-Buttons_1: 925853335304277239
+      R3-Buttons_10: -4134853724337511572
+      R3-Buttons_100: 4026433899878272681
+      R3-Buttons_101: 3199406827973851612
+      R3-Buttons_102: 1008529714739461911
+      R3-Buttons_103: 2648210768666954989
+      R3-Buttons_104: 4086972152696764415
+      R3-Buttons_105: -8613036044174370631
+      R3-Buttons_106: -7502433484642448863
+      R3-Buttons_107: 6279027003877948248
+      R3-Buttons_108: -5912809046483944801
+      R3-Buttons_109: 4863231422049767194
+      R3-Buttons_11: -1405394156036861691
+      R3-Buttons_110: -9059372883973779929
+      R3-Buttons_111: 7883429483803225787
+      R3-Buttons_112: -1369474701877263933
+      R3-Buttons_113: 878882650767544121
+      R3-Buttons_114: 4032630538043499163
+      R3-Buttons_115: 6964257694420124515
+      R3-Buttons_116: 3293100513161011076
+      R3-Buttons_117: 2689352959648318550
+      R3-Buttons_118: -5384785703809572497
+      R3-Buttons_119: -8777042803299762601
+      R3-Buttons_12: -1706957440051993309
+      R3-Buttons_120: 9191902963608359376
+      R3-Buttons_121: -3769976230626717561
+      R3-Buttons_122: 8875719315048338121
+      R3-Buttons_123: 5141146873564443105
+      R3-Buttons_124: 2960156434283471694
+      R3-Buttons_125: 1906508755436048289
+      R3-Buttons_126: 8267858563690886342
+      R3-Buttons_127: 855604321732409668
+      R3-Buttons_128: -2292173262948020918
+      R3-Buttons_13: -8792430092741888906
+      R3-Buttons_14: -852207248191817657
+      R3-Buttons_15: 5637987455480940489
+      R3-Buttons_16: 3529011533945901863
+      R3-Buttons_17: -3169373288264590014
+      R3-Buttons_18: 4259572009021946107
+      R3-Buttons_19: -3531639204852995492
+      R3-Buttons_2: 985838359568475165
+      R3-Buttons_20: 5459902558843553972
+      R3-Buttons_21: 5692765323167368293
+      R3-Buttons_22: -7360467412081684801
+      R3-Buttons_23: -6506928358989024913
+      R3-Buttons_24: 1867134065847849192
+      R3-Buttons_25: -2045055028572989442
+      R3-Buttons_26: 4840903713974489238
+      R3-Buttons_27: -7438133431434107854
+      R3-Buttons_28: -8356429185929147462
+      R3-Buttons_29: 2835985513129185250
+      R3-Buttons_3: -4509876888880822848
+      R3-Buttons_30: 3708275424105898667
+      R3-Buttons_31: 5357382466610876480
+      R3-Buttons_32: 5289364441302725019
+      R3-Buttons_33: 3001785373624974158
+      R3-Buttons_34: -2505315363914211064
+      R3-Buttons_35: -1085504953736798050
+      R3-Buttons_36: 2088209549795067051
+      R3-Buttons_37: -2713373000546271052
+      R3-Buttons_38: 8902641456934872783
+      R3-Buttons_39: -8615338412436778344
+      R3-Buttons_4: 2950131631867171448
+      R3-Buttons_40: 8404529801802114809
+      R3-Buttons_41: -2939553939031572190
+      R3-Buttons_42: -7202499131079004184
+      R3-Buttons_43: 3166366387209154581
+      R3-Buttons_44: -2944106504513031276
+      R3-Buttons_45: -7036109425386586610
+      R3-Buttons_46: 9222593567462438115
+      R3-Buttons_47: -7221288453396963589
+      R3-Buttons_48: -4256737173742497373
+      R3-Buttons_49: -733728298643644915
+      R3-Buttons_5: 6392203991148643686
+      R3-Buttons_50: 5197315458448170175
+      R3-Buttons_51: -2146350134341867087
+      R3-Buttons_52: 5843374975204936912
+      R3-Buttons_53: -8242151389106412641
+      R3-Buttons_54: 8750705549477929363
+      R3-Buttons_55: -6690542315327328035
+      R3-Buttons_56: -713049925069436326
+      R3-Buttons_57: -7150820189100588430
+      R3-Buttons_58: 2068123816806040955
+      R3-Buttons_59: 1434179905284522059
+      R3-Buttons_6: -3161374962860369856
+      R3-Buttons_60: -2211528169357025862
+      R3-Buttons_61: 4825691634326952959
+      R3-Buttons_62: 1442309398210571994
+      R3-Buttons_63: -2633471145024554026
+      R3-Buttons_64: -1792741162462201701
+      R3-Buttons_65: 7254078019324812930
+      R3-Buttons_66: -41657510361196834
+      R3-Buttons_67: -6356326827194327730
+      R3-Buttons_68: 6015023718134675008
+      R3-Buttons_69: -8391263768263290032
+      R3-Buttons_7: 737068092489892102
+      R3-Buttons_70: 7922600416277324065
+      R3-Buttons_71: 3366356999917193108
+      R3-Buttons_72: 75595646770581677
+      R3-Buttons_73: 8855941289517844692
+      R3-Buttons_74: 1906505955660464650
+      R3-Buttons_75: -8287131391782737328
+      R3-Buttons_76: -6814429290847131195
+      R3-Buttons_77: 3256173595986210282
+      R3-Buttons_78: -1830510943027053921
+      R3-Buttons_79: -4628736964478871227
+      R3-Buttons_8: -6400854447023411353
+      R3-Buttons_80: 169488195466558513
+      R3-Buttons_81: 588328035475211547
+      R3-Buttons_82: 4217919660745402539
+      R3-Buttons_83: 2141620167704357511
+      R3-Buttons_84: -3960004996008772511
+      R3-Buttons_85: 1934021663436139616
+      R3-Buttons_86: 2811269961370940213
+      R3-Buttons_87: 5358545750835695106
+      R3-Buttons_88: 5668759211562442350
+      R3-Buttons_89: 8978380457265136315
+      R3-Buttons_9: 3115593332715035533
+      R3-Buttons_90: -4178775358099026824
+      R3-Buttons_91: -2835261079513286791
+      R3-Buttons_92: -8515049631986178675
+      R3-Buttons_93: 2767330362613129917
+      R3-Buttons_94: -4344927113793734335
+      R3-Buttons_95: 8268409584490631726
+      R3-Buttons_96: 4490431086006433142
+      R3-Buttons_97: -8377703724844727587
+      R3-Buttons_98: -9164071236399824447
+      R3-Buttons_99: -6297886699065720020
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

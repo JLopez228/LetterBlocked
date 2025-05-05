@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 04f0165ff9e522b4aafa1dc1d0dbdcc1
+guid: f233980dc968f3740b9002c11644c89f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6329432323784038179
-    second: P15-Logotype_0
+      213: 5372293724580488356
+    second: R16-Logotype_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: P15-Logotype_0
+      name: R16-Logotype_0
       rect:
         serializedVersion: 2
-        x: 26
-        y: 102
-        width: 252
-        height: 106
+        x: 188
+        y: 720
+        width: 1752
+        height: 730
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dd82af616d65928a0800000000000000
-      internalID: -6329432323784038179
+      spriteID: 4a42eaacda83e8a40800000000000000
+      internalID: 5372293724580488356
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      P15-Logotype_0: -6329432323784038179
+      R16-Logotype_0: 5372293724580488356
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
